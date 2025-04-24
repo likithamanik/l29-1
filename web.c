@@ -45,4 +45,10 @@
         <h3 class="text-xl font-semibold mb-2">B.Tech</h3>
         <p>Engineering disciplines like Computer Science, Mechanical, ECE, Civil, and more.</p>
       </div>
+      <!-- MBA -->
+      <div class="bg-white rounded-xl shadow p-6 hover:shadow-lg transition">
+        <h3 class="text-xl font-semibold mb-2">MBA</h3>
+        <p>Master’s in Business Administration with specializations in Marketing, Finance, HR, etc.</p>
+      </div>
+
 
