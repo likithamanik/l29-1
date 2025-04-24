@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1> The Button Element</h1>
+<button type="button" onclick="alert('Hello World!')">click me!</button>
+<h2>MY FIRST WEB PAGE</h2>
+<p>MY FIRST PARAGRAPH</p>
+<script>
+window.alert(5+6);
+</script>
+<h2>MY FIRST WEB PAGE</h2>
+<p>MY FIRST PARAGRAPH</p>
+<script>
+alert(5+6);
+</script>
+<h1>My first web page</h1>
+<p>My first paragraph.</p>
+<p id="demo"></p>
+<script>
+document.getElementById("demo").innerHTML =5+6;
+</script>
+<h2>What Can JavaScript Do?</h2>
+<p>JavaScript can show hidden HTML elements.</p>
+<p id="demo 1" style="display:none">HELLO JAVASCRIPT!</p>
+<button type="button"
+onclick="document.getElementById('demo 1').style.display='block'">
+click me!</button>
+<h2>What Can JavaScript Do?</h2>
+<p id="demo 2">JAVASCRIPT can change the style of an HTML Element</p>
+<button type="button"
+onclick="document.getElementById('demo2').style.fontsize='35px'">
+click me!</button>
+<h2>MY FIRST JAVASCRIPT</h2>
+<button type="button"
+onclick="document.getElementById('demo 1').innerHTML = Date()">
+click me to display Date and Time.</button>
+<p id="demo 1"></p>
+<h2> the window.print() method<h2>
+<p> click the button to print the current page .</p>
+<button onclick ="window.print()">print this page</button>
+</body>
+</html>
