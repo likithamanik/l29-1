@@ -51,4 +51,8 @@
         <p>Master’s in Business Administration with specializations in Marketing, Finance, HR, etc.</p>
       </div>
 
+ <div class="bg-white rounded-xl shadow p-6 hover:shadow-lg transition">
+        <h3 class="text-xl font-semibold mb-2">BCA</h3>
+        <p>Focus on computer applications, programming, and IT fundamentals.</p>
+      </div>
 
