@@ -29,4 +29,10 @@
   <section class="py-16">
     <div class="max-w-6xl mx-auto px-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
 
+  <!-- 10th Grade -->
+      <a href="10th.html" class="block bg-white rounded-xl shadow p-6 hover:shadow-lg transition hover:bg-blue-50">
+        <h3 class="text-xl font-semibold mb-2 text-blue-600">10th Grade</h3>
+        <p>Foundational subjects including Science, Math, English, and Social Studies.</p>
+      </a>
+
 
