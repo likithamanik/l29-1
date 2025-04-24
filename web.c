@@ -35,4 +35,9 @@
         <p>Foundational subjects including Science, Math, English, and Social Studies.</p>
       </a>
 
+ <!-- 12th Grade -->
+      <a href="12th.html" class="block bg-white rounded-xl shadow p-6 hover:shadow-lg transition hover:bg-blue-50">
+        <h3 class="text-xl font-semibold mb-2 text-blue-600">12th Grade</h3>
+        <p>Specialized streams like Science, Commerce, and Arts with practical applications.</p>
+      </a>
 
