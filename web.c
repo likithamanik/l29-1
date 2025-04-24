@@ -66,5 +66,14 @@
         <h3 class="text-xl font-semibold mb-2 text-blue-600">B.Com</h3>
         <p>Commerce-based curriculum including accounting, economics, and business law.</p>
       </a>
+ </div>
+  </section>
 
+  <!-- Footer -->
+  <footer class="bg-white border-t mt-20 py-6 text-center text-sm text-gray-500">
+    &copy; 2025 MyWebsite. All rights reserved.
+  </footer>
+
+</body>
+</html>
 
