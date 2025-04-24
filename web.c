@@ -40,4 +40,9 @@
         <h3 class="text-xl font-semibold mb-2 text-blue-600">12th Grade</h3>
         <p>Specialized streams like Science, Commerce, and Arts with practical applications.</p>
       </a>
+<!-- B.Tech -->
+      <div class="bg-white rounded-xl shadow p-6 hover:shadow-lg transition">
+        <h3 class="text-xl font-semibold mb-2">B.Tech</h3>
+        <p>Engineering disciplines like Computer Science, Mechanical, ECE, Civil, and more.</p>
+      </div>
 
