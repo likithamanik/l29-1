@@ -50,9 +50,16 @@
         <h3 class="text-xl font-semibold mb-2">MBA</h3>
         <p>Master’s in Business Administration with specializations in Marketing, Finance, HR, etc.</p>
       </div>
-
+<!-- BCA -->
  <div class="bg-white rounded-xl shadow p-6 hover:shadow-lg transition">
         <h3 class="text-xl font-semibold mb-2">BCA</h3>
         <p>Focus on computer applications, programming, and IT fundamentals.</p>
       </div>
+      <!-- BBA -->
+      <a href="bba.html" class="block bg-white rounded-xl shadow p-6 hover:shadow-lg transition hover:bg-blue-50">
+        <h3 class="text-xl font-semibold mb-2 text-blue-600">BBA</h3>
+        <p>Introduction to business management, operations, and marketing principles.</p>
+      </a>
+
+
 
