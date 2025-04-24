@@ -61,5 +61,10 @@
         <p>Introduction to business management, operations, and marketing principles.</p>
       </a>
 
+<!-- B.Com -->
+      <a href="bcom.html" class="block bg-white rounded-xl shadow p-6 hover:shadow-lg transition hover:bg-blue-50">
+        <h3 class="text-xl font-semibold mb-2 text-blue-600">B.Com</h3>
+        <p>Commerce-based curriculum including accounting, economics, and business law.</p>
+      </a>
 
 
