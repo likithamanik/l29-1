@@ -38,4 +38,29 @@ var b=20;
 var c=a/b;
 document.write(c);
 }
+</script>
+<p id ="my"></p>
+<button onclick ="div()">div</button>
+<script>
+function multiplication(){
+var a=10;
+var b=20;
+var c=a*b;
+document.write(c);
+}
+</script>
+<p id ="my"></p>
+<button onclick ="multiplication()">multiplication</button>
+<script>
+function modulus (){
+var a=520;
+var b=600;
+var c=a%b;
+document.write(c);
+}
+</script>
+<p id ="my"></p>
+<button onclick ="modulus()">modulus</button>
+</body>
+</html>
 
