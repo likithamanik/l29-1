@@ -25,3 +25,8 @@
     <h2 class="text-3xl font-bold mb-2">Explore Our Courses</h2>
     <p class="text-lg">From high school to advanced degrees, we’ve got you covered.</p>
   </section>
+   <!-- Courses Grid -->
+  <section class="py-16">
+    <div class="max-w-6xl mx-auto px-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
+
+
