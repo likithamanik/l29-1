@@ -6,6 +6,7 @@
 function area(){
 var a=10;
 var c=a*a;
+ADDED A NEW LINE
 document.write(c);
 }
 </script>
@@ -18,6 +19,7 @@ var b=20;
 var c=a+b;
 document.write(c);
 }
+ADDED A NEW LINE AGAIN
 </script>
 <p id ="my"></p>
 <button onclick ="add()">add</button>
