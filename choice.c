@@ -36,5 +36,7 @@ case 2:
             } else {
                 printf("Error: Division by zero is not allowed.\n");
             }
+	    printf("error"
+
             break;
 
